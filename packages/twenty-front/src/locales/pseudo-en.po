@@ -2760,6 +2760,11 @@ msgstr ""
 msgid "Companies"
 msgstr ""
 
+#. js-lingui-id: 3WrMP5
+#: src/modules/settings/accounts/components/SettingsAccountsRowDropdownMenu.tsx
+msgid "Complete setup"
+msgstr ""
+
 #. js-lingui-id: 2PsTzL
 #: src/modules/workflow/workflow-diagram/utils/generateNodesAndEdgesForIteratorNode.ts
 #: src/modules/workflow/workflow-diagram/utils/generateNodesAndEdgesForIteratorNode.ts
@@ -6454,11 +6459,6 @@ msgstr ""
 #. js-lingui-id: wgmt7A
 #: src/modules/settings/admin-panel/config-variables/components/ConfigVariableOptionsDropdownContent.tsx
 msgid "Hide hidden groups"
-msgstr ""
-
-#. js-lingui-id: i0qMbr
-#: src/modules/object-record/record-show/hooks/useRecordShowContainerTabs.ts
-msgid "Home"
 msgstr ""
 
 #. js-lingui-id: Xkd22/
@@ -11210,6 +11210,11 @@ msgstr ""
 #. js-lingui-id: rl/5Qa
 #: src/pages/settings/applications/SettingsAvailableApplicationDetails.tsx
 msgid "Settings tab"
+msgstr ""
+
+#. js-lingui-id: Ue7X/E
+#: src/modules/settings/accounts/components/SettingsAccountsConnectedAccountsRowRightContainer.tsx
+msgid "Setup incomplete"
 msgstr ""
 
 #. js-lingui-id: J2TlKG

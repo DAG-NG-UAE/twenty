@@ -2760,6 +2760,11 @@ msgstr "Compact view"
 msgid "Companies"
 msgstr "Companies"
 
+#. js-lingui-id: 3WrMP5
+#: src/modules/settings/accounts/components/SettingsAccountsRowDropdownMenu.tsx
+msgid "Complete setup"
+msgstr "Complete setup"
+
 #. js-lingui-id: 2PsTzL
 #: src/modules/workflow/workflow-diagram/utils/generateNodesAndEdgesForIteratorNode.ts
 #: src/modules/workflow/workflow-diagram/utils/generateNodesAndEdgesForIteratorNode.ts
@@ -6455,11 +6460,6 @@ msgstr "Hide group {groupValue}"
 #: src/modules/settings/admin-panel/config-variables/components/ConfigVariableOptionsDropdownContent.tsx
 msgid "Hide hidden groups"
 msgstr "Hide hidden groups"
-
-#. js-lingui-id: i0qMbr
-#: src/modules/object-record/record-show/hooks/useRecordShowContainerTabs.ts
-msgid "Home"
-msgstr "Home"
 
 #. js-lingui-id: Xkd22/
 #: src/modules/page-layout/utils/getWidgetTitle.ts
@@ -11211,6 +11211,11 @@ msgstr "Settings permissions"
 #: src/pages/settings/applications/SettingsAvailableApplicationDetails.tsx
 msgid "Settings tab"
 msgstr "Settings tab"
+
+#. js-lingui-id: Ue7X/E
+#: src/modules/settings/accounts/components/SettingsAccountsConnectedAccountsRowRightContainer.tsx
+msgid "Setup incomplete"
+msgstr "Setup incomplete"
 
 #. js-lingui-id: J2TlKG
 #: src/pages/settings/SettingsTwoFactorAuthenticationMethod.tsx
